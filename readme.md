@@ -20,5 +20,5 @@ https://github.com/tcp-nanqinlang/wiki/wiki/general
 
 # Debian 7+
 # fool
-wget https://github.com/tcp-nanqinlang/general/releases/download/3.4.2.1/tcp_nanqinlang-fool-1.3.0-nocheckvirt.sh
+wget https://github.com/tcp-nanqinlang/general/releases/download/3.4.2.1/tcp_nanqinlang-fool-1.3.0-nocheckvirt.sh &
 bash tcp_nanqinlang-fool-1.3.0-nocheckvirt.sh
